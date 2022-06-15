@@ -1,0 +1,2 @@
+You are given a text. Write a program to print all the words in the text, one for each line. Words should be sorted in descending order of their number of occurrences in the text.
+Those words with the same number of occurrences should be sorted in lexicographic order.
